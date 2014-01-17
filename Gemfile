@@ -14,6 +14,7 @@ end
 	
 group :development, :test do 
 	gem 'annotate', '2.5.0'
+	gem 'factory_girl_rails', '4.1.0'
 end
 	
 group :assets do
